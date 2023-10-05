@@ -1,16 +1,15 @@
 ### Hola Bienvenidos a mi perfil de Github 👋
 
-<!--
-**davinsonpdiaz/davinsonpdiaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Trabajador Social, estudiante de programación
 
-Here are some ideas to get you started:
+¡Hola! Soy [Davinson Patiño Diaz], un apasionado por las humanidades, el deporte, la programación y la tecnología. Actualmente trabajo en mis propios proyectos.
+- 📫 Contacto: [Tu Correo Electrónico](davinsonpdiazu@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Mis habilidades
+
+- 💻 Lenguajes de programación: Python
+- 🛠️ Tecnologías: HTML, CSS
+- 🔧 Herramientas: Git, VS Code
+- 📚 Aprendiendo actualmente: [Python, Django]
+
+¡No dudes en contactarme si tienes alguna pregunta o colaboración en mente!
