@@ -5,7 +5,7 @@
 ¡Hola! Soy [Davinson Patiño Diaz], un apasionado por las humanidades, el deporte, la programación y el emprendimiento. Actualmente trabajo en mis propios proyectos.
 - 📫 Contacto: [Tu Correo Electrónico](davinsonpdiaz@gmail.com)
 
-![Imagen de perfil](page-header.jpg)
+![Imagen de perfil]()
 
 ## Mis habilidades
 
