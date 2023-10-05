@@ -3,7 +3,7 @@
 ## Trabajador Social, estudiante de programación
 
 ¡Hola! Soy [Davinson Patiño Diaz], un apasionado por las humanidades, el deporte, la programación y la tecnología. Actualmente trabajo en mis propios proyectos.
-- 📫 Contacto: [Tu Correo Electrónico](davinsonpdiazu@gmail.com)
+- 📫 Contacto: [Tu Correo Electrónico](davinsonpdiaz@gmail.com)
 
 ## Mis habilidades
 
